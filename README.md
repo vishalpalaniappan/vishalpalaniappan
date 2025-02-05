@@ -1,5 +1,5 @@
-To understand how the system failed,
-we must understand how the system failed. 
+To understand how the system failed,  
+we must understand how the system failed.   
 ![background](https://github.com/user-attachments/assets/7f460def-3262-4f8d-95ae-e01e8e33044a)
 
 <!--
