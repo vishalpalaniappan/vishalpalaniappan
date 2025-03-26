@@ -6,7 +6,10 @@ Systems building systems.
 
 <!--![20200708_204630](https://github.com/user-attachments/assets/d6512a88-0b8a-485d-9be7-4cf2af891a63)-->
 
-![IMG-20211222-WA0005_cropped](https://github.com/user-attachments/assets/f4f8db20-4368-47ab-b37c-7777b94aaf4a)
+<!--![IMG-20211222-WA0005_cropped](https://github.com/user-attachments/assets/f4f8db20-4368-47ab-b37c-7777b94aaf4a)-->
+
+
+![20200708_204630](https://github.com/user-attachments/assets/437ac162-cf9e-4e96-8af0-915f8ef2917a)
 
 
 <!--![20200919_203111](https://github.com/user-attachments/assets/d2f1a75d-8df6-4b92-8511-2712e5e05e86)-->
