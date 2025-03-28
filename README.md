@@ -8,8 +8,10 @@ Systems building systems.
 
 <!--![IMG-20211222-WA0005_cropped](https://github.com/user-attachments/assets/f4f8db20-4368-47ab-b37c-7777b94aaf4a)-->
 
+![ggggCapture2sdfasdf](https://github.com/user-attachments/assets/046ebd78-c710-47e5-bdcc-9845e6c344cf)
 
-![20200708_204630](https://github.com/user-attachments/assets/437ac162-cf9e-4e96-8af0-915f8ef2917a)
+
+<!--![20200708_204630](https://github.com/user-attachments/assets/437ac162-cf9e-4e96-8af0-915f8ef2917a)-->
 
 
 <!--![20200919_203111](https://github.com/user-attachments/assets/d2f1a75d-8df6-4b92-8511-2712e5e05e86)-->
