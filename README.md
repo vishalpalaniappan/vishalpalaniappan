@@ -3,7 +3,8 @@ Systems building systems.
 
 
 
-![20210417_194321](https://github.com/user-attachments/assets/84ccab6d-28f1-4a2b-a183-cb1ee9c5e4c8)
+
+![20190716_205340](https://github.com/user-attachments/assets/ced5d051-ea05-44bc-8d09-d821b35fad19)
 
 
 <!--
