@@ -1,7 +1,9 @@
 Systems building systems.
 ----- 
 
-![elr2yv049dj23e4234a1](https://github.com/user-attachments/assets/7bd39d81-0791-48bb-b506-27af6234ffc9)
+![mars](https://github.com/user-attachments/assets/905efeec-a050-4d7d-8043-7b87519d5679)
+Sunset on Mars, credit to Curiosity Mars Rover. I didn't take the picture.
+
 
 
 <!--
