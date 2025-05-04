@@ -2,7 +2,6 @@ Systems building systems.
 ----- 
 
 ![mars](https://github.com/user-attachments/assets/905efeec-a050-4d7d-8043-7b87519d5679)
-Sunset on Mars, credit to Curiosity Mars Rover. I didn't take the picture.
 
 
 
