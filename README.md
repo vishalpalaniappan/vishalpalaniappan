@@ -1,7 +1,7 @@
 Systems building systems.
 ----- 
 
-![mars](https://github.com/user-attachments/assets/905efeec-a050-4d7d-8043-7b87519d5679)
+![elr2yv049dj23e4234a1](https://github.com/user-attachments/assets/c7cc46a7-8ee8-479c-be0b-a49e65610728)
 
 
 
