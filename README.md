@@ -1,7 +1,6 @@
 Systems building systems.
 ----- 
-![elr2yv049dj23e4234a1](https://github.com/user-attachments/assets/ce1a494d-136c-4db1-a47b-56d94729f278)
-
+![20210417_194321](https://github.com/user-attachments/assets/e5754531-7b32-4650-864d-2a8e03fb6df1)
 
 <!--
 **vishalpalaniappan/vishalpalaniappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
