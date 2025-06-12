@@ -1,6 +1,7 @@
 Systems building systems.
 ----- 
-![80beb38c-6c58-4a26-8d8e-a61762c671da](https://github.com/user-attachments/assets/acdabbeb-a362-47d7-beeb-fb8826585f67)
+
+![IMG-20211222-WA0005_cropped](https://github.com/user-attachments/assets/2cc20035-0b6b-4705-b47b-d549d1f72c31)
 
 
 <!--
