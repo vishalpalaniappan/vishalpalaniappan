@@ -2,7 +2,7 @@ Runtime Execution Tracing using Automated AST Instrumentation.
 ----- 
 By applying automated AST instrumentation, we inject log statements into the source code to enable dynamic tracing at runtime. Since the instrumented program traces its own execution, the resulting log file captures a complete and uninterrupted trace of control flow and variable states leading up to and including the exception. This enables powerful features, such as automated root cause analysis, live debugging, and time-travel debugging, to name a few. These features, initially applied at the program level, naturally extend to system-level analysis. By tracking interactions between instrumented programs, it becomes possible to automatically construct distributed traces that capture the flow of information across the system. This approach of automatically instrumenting the code to enable dynamic tracing at runtime lays the foundation for a fully automated, log-based diagnostic solution for software systems. It provides a non-intrusive method for debugging and analyzing program/system behavior, delivering a level of insight and automation that traditional debugging techniques cannot match (or easily replicate).
 
-![PHOTO-2025-08-06-18-20-0gigil2](https://github.com/user-attachments/assets/2f54f719-feea-47b2-b131-630b46c22f80)
+![PHOTO-2025-08-06-18-20qwd-0gigil2](https://github.com/user-attachments/assets/e32ea084-28b0-481d-ac0c-8ade69b5f1de)
 
 
 <!--
