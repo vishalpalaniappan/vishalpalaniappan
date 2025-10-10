@@ -1,4 +1,4 @@
-Automating Management of Software Systems with Intelligent an Efficient Tools
+Automating Management of Software Systems with Intelligent and Efficient Tools
 ----- 
 Modern software systems are vast and complex, often spanning thousands of interconnected services and components distributed across data centers and geographic regions. These systems process enormous volumes of requests and evolve continuously through frequent deployments. In such environments, failures or disruptions are costly and degrade the user experience, motivating the need for intelligent and efficient tools that can automatically manage software systems to ensure reliability, perform failure diagnosis, and optimize performance.
 
@@ -11,6 +11,10 @@ Two complementary forms of intelligence emerge in the context of software system
 The second form is operational intelligence, which leverages lossless domain-specific knowledge (DSK) to reason about system behavior, predict future outcomes, and enable autonomous system management. Unlike design intelligence, operational intelligence fully closes the loop within the system, allowing tools to act, adapt, and optimize performance without human intervention. With complete domain-specific knowledge, the system can observe inputs, estimate the probability of failure, and assess the risk associated with every decision, enabling optimal autonomous management to ensure reliability, fault tolerance, and sustained performance at scale. Since the effects of every action can be losslessly observed, the feedback loop continuously iterates, allowing the system to self-improve over time and converge on ideal strategies for managing the system in its observed environment.
  
 Design intelligence ensures that the system accounts for every input seen in the observed environment, while operational intelligence manages risk introduced by changes to the observed environment. Together, they enable the construction of intelligent and efficient tools capable of automating system management. When the feedback loop enabled by design intelligence is fully automated, the two forms of intelligence will merge, allowing operational intelligence to leverage design intelligence to eliminate risk and failures in real-time. The result is a self-aware system capable of continuously optimizing and evolving in response to changes in its environment.
+
+---------------
+
+<img width="802" height="334" alt="videoframe_1097" src="https://github.com/user-attachments/assets/1354af30-2e0e-48a0-a03d-a79634c4e5fa" />
 
 <!--
 **vishalpalaniappan/vishalpalaniappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
