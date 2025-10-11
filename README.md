@@ -14,7 +14,7 @@ Operational intelligence, on the other hand, leverages lossless domain-specific 
 
 Design intelligence ensures that the system accounts for every input seen in the observed environment. Operational intelligence manages the risk introduced by uncertainty in the observed environment. If the uncertainty leads to failure, the design intelligence then updates the DSK to account for this uncertainty, which in turn reduces the risk that the operational intelligence has to manage. The two are complementary and work together to automatically manage software systems to improve their reliability, fault tolerance and performance. 
 
-When the design intelligence is fully automated, these two forms of intelligence will merge and the resulting intelligence will work to automatically eliminate risk instead of managing.
+When the design intelligence is fully automated, these two forms of intelligence will merge and the resulting intelligence will work to automatically eliminate risk instead of managing it.
 
 ---------------
 
