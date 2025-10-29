@@ -13,7 +13,7 @@ The compressed dynamic trace, obtained from lossless observation of instrumented
 
 Modern software systems are vast and complex, often spanning thousands of interconnected services and components distributed across data centers and geographic regions. These systems process enormous volumes of requests and evolve continuously through frequent deployments. In such environments, failures or disruptions are costly and degrade the user experience, necessitating the development of intelligent tools that can automatically manage software systems to ensure reliability, perform failure diagnosis, and optimize performance.
 
-Intelligence can be understood as a feedback loop encompassing the abilities to perceive, understand, retain, reason, predict, and act. Building intelligent tools therefore begins with establishing the capacities to perceive, understand, and retain, as these lay the foundation for the ability to reason, predict, and act, closing the loop. For software systems, this involves instrumenting the system to observe its execution losslessly, automatically analyzing its behavior, and retaining the resulting knowledge.
+Intelligence can be understood as a feedback loop encompassing the abilities to perceive, understand, retain, reason, predict, and act. Building intelligent tools therefore begins with establishing the capacities to perceive, understand, and retain, as these lay the foundation for the ability to reason, predict, and act, closing the loop. For software systems, this involves instrumenting the system to observe its execution losslessly, understanding it through compression, and retaining the resulting domain knowledge.
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center" style="padding-top: 20px;padding-bottom: 20px;">
