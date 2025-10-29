@@ -1,4 +1,10 @@
+
+
 ### Overview
+
+<p align="center" style="padding-top: 20px;padding-bottom: 20px">
+ <i>The more you understand, the more you can understand, until all that is left is the essence of what is being understood.</i>
+</p>
 
 The compressed dynamic trace, obtained from lossless observation of instrumented systems with fully defined data structures, enables flawless retention and automated analysis of domain knowledge. CLP forms the substrate through which software systems are automatically understood through compression of their domain knowledge, enabling the development of intelligent and efficient tools that can autonomously manage them. This process gives rise to an optimized cognitive layer capable of intelligently executing existing distributed logic, resulting in a self-managing distributed system that ensures its own reliability, resilience, and efficiency.
 
@@ -21,9 +27,12 @@ Design intelligence ensures that the system accounts for every input seen in the
 
 When the design intelligence is fully automated, these two forms of intelligence will merge and the resulting intelligence will work to automatically eliminate risk instead of managing it.
 
----------------
+<p align="center" style="padding-top: 20px;">
+  <img src="https://github.com/user-attachments/assets/2849410f-8063-4871-ad0e-3a10d51f0ae1" />
 
-<img width="802" height="334" alt="videoframe_1097" src="https://github.com/user-attachments/assets/1354af30-2e0e-48a0-a03d-a79634c4e5fa" />
+</p>
+
+
 
 <!--
 **vishalpalaniappan/vishalpalaniappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
