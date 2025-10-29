@@ -6,7 +6,7 @@
  <i>The more you understand, the more you can understand, until all that is left is the essence of what is being understood.</i>
 </p>
 
-The compressed dynamic trace, obtained from lossless observation of instrumented systems with fully defined data structures, enables flawless retention and automated analysis of domain knowledge. CLP forms the substrate through which software systems are automatically understood through compression of their domain knowledge, enabling the development of intelligent and efficient tools that can autonomously manage them. This process gives rise to an optimized cognitive layer capable of intelligently executing existing distributed logic, resulting in a self-managing distributed system that ensures its own reliability, resilience, and efficiency.
+The compressed dynamic trace, obtained from lossless observation of instrumented systems with fully defined data structures, enables automated analysis and flawless retention of domain knowledge. CLP forms the substrate through which software systems are automatically understood through compression of their domain knowledge, enabling the development of intelligent and efficient tools that can autonomously manage them. This process gives rise to an optimized cognitive layer capable of intelligently executing existing distributed logic, resulting in a self-managing distributed system that ensures its own reliability, resilience, and efficiency.
 
 
 ### Automating the Management of Software Systems with Intelligent and Efficient Tools
