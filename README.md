@@ -28,7 +28,7 @@ Within this framework, two complementary forms of intelligence emerge: design in
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center" style="padding-top: 20px;padding-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/46283e40-89dd-493e-8217-f875906e64f7" />
+  <img src="https://github.com/user-attachments/assets/420b6d5c-2f7e-4e40-ac0a-aa7b7336be6f" />
 </p>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
