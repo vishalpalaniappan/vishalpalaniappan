@@ -27,7 +27,7 @@ Within this framework, two complementary forms of intelligence emerge: design in
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center" style="padding-top: 20px;padding-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/9b941ff0-bd1f-4b40-a551-e4ed7d4ae61b" />
+  <img src="https://github.com/user-attachments/assets/79073a70-4e91-4028-b36e-8561eef8f646" />
 </p>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -35,7 +35,7 @@ Design intelligence automates the analysis of observed failures to inform and au
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center" style="padding-top: 20px;padding-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/4c3cb2fd-9858-4a47-bc59-ae2b4606655c" />
+  <img src="https://github.com/user-attachments/assets/388347ab-41cb-48d4-a801-5418b6a8b98b" />
 </p>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
