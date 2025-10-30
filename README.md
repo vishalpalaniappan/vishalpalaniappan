@@ -17,7 +17,7 @@ Intelligence can be understood as a feedback loop encompassing the abilities to 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center" style="padding-top: 20px;padding-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/8644f2fb-df93-456e-9387-affffcff1248" />
+  <img src="https://github.com/user-attachments/assets/ef21bdfb-9b96-418e-9f43-a4ce75de9567" />
 </p>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -27,7 +27,7 @@ Within this framework, two complementary forms of intelligence emerge: design in
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center" style="padding-top: 20px;padding-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/79073a70-4e91-4028-b36e-8561eef8f646" />
+  <img src="https://github.com/user-attachments/assets/6e41600e-9cd9-4252-a921-908335eee87a" />
 </p>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -35,7 +35,7 @@ Design intelligence automates the analysis of observed failures to inform and au
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center" style="padding-top: 20px;padding-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/388347ab-41cb-48d4-a801-5418b6a8b98b" />
+  <img src="https://github.com/user-attachments/assets/37e6adb3-64b2-43a0-99fe-d8b6c16cbf04" />
 </p>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
