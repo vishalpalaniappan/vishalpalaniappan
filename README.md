@@ -70,7 +70,7 @@ Since each trace is self-aware of its own execution, it understands the resource
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center" style="padding-top: 20px;padding-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/6e41600e-9cd9-4252-a921-908335eee87a" />
+  <img src="https://github.com/user-attachments/assets/90437af4-2592-47c3-ae6e-2ee3f0a99544" />
 </p>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
