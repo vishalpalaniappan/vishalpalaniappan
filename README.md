@@ -59,7 +59,7 @@ When operating within the bounds of its known domain, it can compress execution 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 In the event of a failure, the system, having complete knowledge and understanding of its prior execution leading to the failure, can automatically debug itself and perform root cause analysis to cleanly resolve the issue by addressing the affected branches.
-- If the failure is operational, it can intelligently re-execute those branches to restore reliability.
+- If the failure is operational, it can intelligently re-execute those branches to improve reliability and reslience.
 - If the failure is a design flaw, it provides the necessary information for design intelligence to incorporate the trace into its domain knowledge, reducing future uncertainty.
   
 Because the observed execution is stored in working memory, operational intelligence can directly observe the effects of its own decisions. This feedback loop allows it to progressively converge toward ideal solutions, continuously refining performance. It can adapt to imperfections in the operational environment, such as node-level performance issues, by rebalancing or reorganizing execution paths.
