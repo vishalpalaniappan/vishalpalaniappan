@@ -28,15 +28,15 @@ Note: The data formats of the variables are fully defined to enable domain speci
 
 The domain knowledge consists of a collection of dynamic traces, since the trace itself describes its structure, the abstractions that describe the system’s behavior are also self described through the stack. This forms an execution tree, a complete map of the system’s execution domain.
 
-Because the structure of all variables is unambiguously defined, CLP applies domain-specific compression to reduce the entropy of the data by describing them through dictionaries. It then uses the structure revealed by the dynamic trace to build a hierarchical representation of the entire domain knowledge, where each node in the tree is defined by:
+Because the structure of all variables are unambiguously defined, CLP applies domain-specific compression to reduce the entropy of the data by describing them through dictionaries. It then uses the structure revealed by the dynamic trace to build a hierarchical representation of the entire domain knowledge, where each node in the tree is defined by:
 - its position in the stack (the abstraction)
 - the ordered path it belongs to (the trace)
 - its position in the path (the instruction)
 - the data that defines it (the dictionaries)
   
-Each abstraction’s space is thus defined by a 2d space, consisting of a collection of ordered paths, where every node in the path is represented by its instruction id and dictionaries. By applying domain-specific compression to this space, CLP derives the most compact and efficient representation. Through recursive compression of these abstractions, it obtains the minimal dynamic map that fully represents the system’s execution.
+Thus, each abstraction’s space defined by a 2d space, consisting of a collection of ordered paths, where every node in the path is represented by its instruction id and dictionaries. By applying domain-specific compression to this space, CLP derives the most compact and efficient representation. Through recursive compression of these abstractions, it obtains the minimal dynamic map that fully represents the system’s execution.
 
-This compressed map enables tools to automatically map any observed onto with the execution tree, using the trace and dictionaries as anchors, thereby enabling reasoning, prediction, and autonomous action. 
+This compressed map enables tools to automatically map its observations onto the execution tree, using the trace's structure and dictionaries as anchors, thereby enabling reasoning, prediction, and autonomous action. 
 
 Within this framework, two complementary forms of intelligence emerge: design intelligence and operational intelligence.
 
