@@ -1,5 +1,3 @@
-View only [link](https://docs.google.com/document/d/1M-T8tzPaxYcl1Vl5c3t0RY3NaXkUQWEGKe6ruhby2Hw/edit?usp=sharing) to document with latest changes (readme will be kept in sync).
-
 ## Overview
 
 <p align="center" style="padding-top: 20px;padding-bottom: 20px">
