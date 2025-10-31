@@ -1,3 +1,5 @@
+View only [link](https://docs.google.com/document/d/1M-T8tzPaxYcl1Vl5c3t0RY3NaXkUQWEGKe6ruhby2Hw/edit?usp=sharing) to document. It's much easier than updating the markdown, so it will have the latest changes, however, I will keep the readme updated (though less frequently).
+
 ## Overview
 
 <p align="center" style="padding-top: 20px;padding-bottom: 20px">
