@@ -91,7 +91,7 @@ As a result, the entire history of the system’s development is preserved and s
 > [!NOTE]
 > Since the trace is instrumented with semantic knowledge that describes the purpose that each abstraction serves in the systems design, it means that the design of the system itself can be reconstructed through the abstractions. When a failure occurs, in addition to describing what and how it happened, we can also describe why it happened in the context of the design. As a result, operational intelligence will be able to explain the failure at the design level and identify design flaws.
 >
->  Looking at this a different way, we can also say that we know the purpose that each abstraction serves, how it intends to serve it and what it actually does (as backed by the real observations). So when a failure is identified, we understand how the purpose, intent and reality failed to align, allowing use to realign these three components through precisely motivated changes.
+>  Looking at this a different way, we can also say that we know the purpose that each abstraction serves, how it intends to serve it and what it actually does (as backed by the real observations). So when a failure occurs, we understand how the purpose, intent and reality failed to align, allowing us to realign these three components through precisely motivated changes, enabling fully automated debugging.
 
 ### Conclusion
 
