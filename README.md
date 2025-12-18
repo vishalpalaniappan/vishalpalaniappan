@@ -1,1 +1,1 @@
-![20200708_204630](https://github.com/user-attachments/assets/44c3f9ba-5a5f-4b65-8760-c49da13ff68c)
+![20200618_211804_cropped](https://github.com/user-attachments/assets/55781b6a-097a-4e77-ad62-a4acc874b58d)
