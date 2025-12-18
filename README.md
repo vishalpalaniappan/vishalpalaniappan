@@ -1,1 +1,1 @@
-![20200618_211804_cropped](https://github.com/user-attachments/assets/55781b6a-097a-4e77-ad62-a4acc874b58d)
+<img width="610" height="653" alt="image" src="https://github.com/user-attachments/assets/d4ef4087-eeab-467f-9de5-7b094bb9aaa3" />
