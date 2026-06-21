@@ -1,1 +1,1 @@
-<img width="2162" height="1204" alt="ADLP" src="https://github.com/user-attachments/assets/e1072255-fd9a-470e-b883-cf4c6ba34e41" />
+<img width="2162" height="1204" alt="ADLP_v2" src="https://github.com/user-attachments/assets/640e0f85-b146-42a6-a86c-a05b4f41f235" />
