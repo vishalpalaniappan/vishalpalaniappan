@@ -8,6 +8,7 @@
 
 -----
 
-<img width="3210" height="2190" alt="DLP_v3" src="https://github.com/user-attachments/assets/b7ac6354-46a6-4f00-acf1-5414116b2d8c" />
+<img width="3063" height="2289" alt="dlp_diagram" src="https://github.com/user-attachments/assets/7dbf3cb4-0ae9-4918-a067-e6990f2b6ec0" />
+
 
 
