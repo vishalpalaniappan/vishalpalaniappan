@@ -8,7 +8,8 @@
 
 -----
 
-<img width="3063" height="2289" alt="dlp_diagram" src="https://github.com/user-attachments/assets/7dbf3cb4-0ae9-4918-a067-e6990f2b6ec0" />
+<img width="3102" height="2388" alt="workflow" src="https://github.com/user-attachments/assets/27b4d5b1-2f4c-4c15-bfef-b6d635a5afd6" />
+
 
 
 
