@@ -4,8 +4,6 @@
 
 -----
 
-<img width="3102" height="2388" alt="workflow" src="https://github.com/user-attachments/assets/aa9611f3-2204-4521-80ac-3d0c074b65db" />
-
-
+<img width="3519" height="2385" alt="workflow" src="https://github.com/user-attachments/assets/a55da956-2642-4634-a87d-e9f65b74592c" />
 
 
